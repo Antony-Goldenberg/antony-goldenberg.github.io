@@ -184,10 +184,10 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              John <span className="text-blue-600">Doe</span>
+              Antony <span className="text-blue-600">Goldenberg</span>
             </h1>
             <h2 className="text-xl md:text-2xl text-gray-600 mb-6">
-              Electrical & Computer Engineer | Software Developer
+              Electrical & Computer Engineer | Robotics & ML
             </h2>
             <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
               Passionate about creating innovative solutions that bridge the gap between hardware and software. 
